@@ -1,0 +1,5 @@
+langchain==0.3.23
+langchain-community==0.3.16
+wikipedia==1.4.0
+openai==1.77.0
+langchain-openai==0.3.16
